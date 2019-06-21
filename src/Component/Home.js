@@ -5,7 +5,7 @@ export default class Home extends Component {
     return (
         <div>
             <img src="home.jpeg"/>
-        <h1>This is home page</h1>
+        <h1>This is home page. its real dope.....</h1>
       </div>
     )
   }

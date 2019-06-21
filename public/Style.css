@@ -1,0 +1,63 @@
+div{
+    margin: 0px;
+    padding: 0px;
+}
+.menuLinkss{
+  margin: 0px;
+  padding: 0px;
+  
+}
+.menu-ul{
+    width: 100%;
+    height: 40px;
+    list-style-type: none;
+    float: right;
+    margin: 0px;
+    background:purple;
+    padding-top: 20px;
+   color: blue;
+   text-decoration: none;
+}
+.menu-ul li{
+    display: inline-block;
+    margin: 0px;
+    margin-left: 10px;
+    padding-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+.menu-ul:hover{
+    background-color: red;
+}
+.menu-ul li:hover{
+    background-color: blue;
+}
+.heading{
+    
+    
+}
+.headingTitle{
+    width: 100%;
+    height: 70px;
+    margin: 0px;
+    padding-left: 0px;
+    background: black;
+}
+.headingTitle h1{
+    top: 0px;
+    left: 0px;
+    color: white;
+    padding-top: 13px;
+    padding-right: 50px;
+    text-transform: uppercase;
+    margin: 0px;
+    text-align: center;
+}
+.menus{
+    margin-bottom: 20px;
+}
+.container{
+    width: 50%;
+    height: 100%;
+    background: lavender;
+}
